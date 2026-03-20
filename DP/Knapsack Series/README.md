@@ -27,5 +27,10 @@
 				    <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Knapsack%20Series/0%20-%201%20Knapsack%20Problem%20Recursive.cpp"> 0 - 1 Knapsack Problem Recursive</a>
 			</td>
     	</tr>
+		<tr>
+			<td>
+				    <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Knapsack%20Series/0%20-%201%20Knapsack%20Problem%20BottomUp.cpp"> 0 - 1 Knapsack Problem BottomUp</a>
+			</td>
+    	</tr>
 	</tbody>
 </table>
