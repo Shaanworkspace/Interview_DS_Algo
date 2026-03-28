@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also        */
 /*
-    MY YOUTUBE VIDEO ON THIS QN : 
+    MY YOUTUBE VIDEO ON THIS QN : https://www.youtube.com/watch?v=LBeyZTNybMQ
     Company Tags                : will update later
     Leetcode Link               : https://leetcode.com/problems/find-the-string-with-lcp/
 */
