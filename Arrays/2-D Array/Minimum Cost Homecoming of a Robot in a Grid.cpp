@@ -20,7 +20,7 @@ public:
         
         int res = 0;
 
-        // 🔹 Move in rows
+        //Move in rows
         if (r2 >= r1) {
             // moving DOWN
             for (int r = r1 + 1; r <= r2; r++) {
@@ -33,7 +33,7 @@ public:
             }
         }
 
-        // 🔹 Move in columns
+        //Move in columns
         if (c2 >= c1) {
             // moving RIGHT
             for (int c = c1 + 1; c <= c2; c++) {
