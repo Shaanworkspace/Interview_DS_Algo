@@ -39,7 +39,7 @@ class Solution {
         memset(t, -1, sizeof(t));
         int n = arr.size();
         
-        vector<vector<bool>> t(n+1, vector<int>(sum+1, 0));
+        return solve(n, sum, arr);
         
     }
 };
