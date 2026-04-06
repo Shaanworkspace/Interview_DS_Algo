@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also    */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=Ni9RwDZdzrU
     Company Tags                : Amazon, Microsoft
     Problem Link                : https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 */
